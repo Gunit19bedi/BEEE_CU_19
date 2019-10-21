@@ -1,5 +1,5 @@
 int sensorPin = A0;
-int ledPIN = 3;
+int ledPIN = 9;
 int sensorValue = 0;
 void setup() 
 {
