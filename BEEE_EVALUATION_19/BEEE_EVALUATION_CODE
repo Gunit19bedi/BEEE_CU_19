@@ -9,7 +9,7 @@ void setup()
       
 }  
 void loop() {
-  int s
+  int s;
     s = analogRead(ldr port);
   if(s>300)
   {
